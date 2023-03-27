@@ -1,4 +1,4 @@
 # coders_choice
-Coders Choice group project w/ Jeremey Kolker
+Coders Choice group project w/ Jeremy Kolker
 
 brian test

@@ -4,7 +4,7 @@ const recordSchema = new mongoose.Schema({
     artist: String,
     album: String,
     //released example: 1976
-    released: Number,
+    released: String,
     image: String,
 })
 
